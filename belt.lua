@@ -4,7 +4,7 @@ local speedfast = 6
 local speedslow = 3
 
 function belt:init(x, y, r, t)
-	--PHYSICS STUFF
+	--PHYSICS STUFFS
 	self.cox = x
 	self.coy = y
 	self.x = x-1
