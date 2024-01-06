@@ -161,7 +161,7 @@ function love.load()
 		changescale(scale, fullscreen)
 	end
 
-	love.window.setTitle( "Mari0: AE" )
+	love.window.setTitle( "Mari0: AE [Custom Build]" )
 	
 	love.window.setIcon(love.image.newImageData("graphics/icon.png"))
 	
